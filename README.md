@@ -16,7 +16,7 @@ It is useful for learning the basic concepts of the system.
 * 15 minutes after you have updated the developers console, you should reboot your Chromecast, so that it picks up the changes.
 * Enter the App ID of your receiver application into your sender application or one of our sample sender applications, such as DemoCastPlayer.
 * You should now be able to launch your receiver using a sender.
-* If you wish to watch whats going on, using a Chrome browser, connect to &lt;ip of your Chromecast>:9222 and debug your receiver.  A good place to start is looking at the console log.
+* If you wish to watch whats going on, using a Chrome browser, connect to &lt;IP of your Chromecast>:9222 and debug your receiver.  A good place to start is looking at the console log.
 
 ## Documentation
 See the code.
