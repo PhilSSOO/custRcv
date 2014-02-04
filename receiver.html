@@ -75,7 +75,7 @@ host this yourself.
 // Start the system
     console.log('Application is ready, starting system');
     window.castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
-    castReceierManager.onSenderDisconnected = function (event) {
+    castReceiverManager.onSenderDisconnected = function (event) {
       console.log("sender disconnected");
     };
 // The default inactivity is normally 10 seconds, since we are encouraging you
