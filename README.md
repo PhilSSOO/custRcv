@@ -1,4 +1,4 @@
-# Cast-Simple-Receiver
+# CastHelloVideoPlayer
 
 This shows a very simple receiver to help you get code up and running. You can
 think of this as your first step. It is not compatible with our UX guidelines.
